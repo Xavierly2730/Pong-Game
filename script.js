@@ -4,9 +4,9 @@ pt = 10;
 ph = 100;
 bx = by = 50;
 bd = 6;
-xv = yv = 6;
+xv = yv = 7;
 score1 = score2 = 0;
-ais = 3;
+ais = 5;
 
 //Functions
 window.onload = function(){
